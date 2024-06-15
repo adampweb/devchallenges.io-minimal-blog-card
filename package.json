@@ -1,0 +1,24 @@
+{
+  "name": "devchallenges.io-minimal-blog-card",
+  "version": "1.0.0",
+  "description": "This project is solution of a challenge on devchalleges.io and the part of Responsive Web Developer path",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adampweb/devchallenges.io-minimal-blog-card.git"
+  },
+  "keywords": [
+    "responsive-web-design",
+    "html",
+    "css"
+  ],
+  "author": "adampweb <info@adampweb.com> (https://adampweb.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adampweb/devchallenges.io-minimal-blog-card/issues"
+  },
+  "homepage": "https://github.com/adampweb/devchallenges.io-minimal-blog-card#readme"
+}
