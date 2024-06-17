@@ -8,6 +8,7 @@
     --color-lightBeige: #FAFAF9;
     --color-gray: #6C727F;
     --color-lightGray: #E5EAF0;
+    font-size: 16px;
 }
 
 /* Reset some default styles */
@@ -33,4 +34,26 @@ body{
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    background-color: var(--color-lightBeige);
+}
+
+/* Set font styles */
+.text{
+    font-family: 'Sora', Arial, Helvetica, sans-serif;
+}
+
+.text-title{
+    font-size: 1.125rem;
+}
+
+.text-body{
+    font-size: 0.875rem;
+}
+
+.text-small{
+    font-size: 0.75rem;
+}
+
+.text-tag{
+    font-size: 0.625rem;
 }
