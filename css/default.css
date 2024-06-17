@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@200;400;500&display=swap');
+
+:root{
+    --color-purple: #883AE1;
+    --color-lightPurple: #E6D6FC;
+    --color--black: #20293A;
+    --color-white: #FFFFFF;
+    --color-lightBeige: #FAFAF9;
+    --color-gray: #6C727F;
+    --color-lightGray: #E5EAF0;
+}
+
+/* Reset some default styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    min-width: 100vw;
+    max-width: 1280px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
